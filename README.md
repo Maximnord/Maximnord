@@ -8,9 +8,9 @@
 - 📫 How to reach me: maximnord@gmail.com
 - Education:
 - 💻 Graduated from Computer Development College – "HackerU college". Tel Aviv, Israel
-- 🔬 Graduate of Sport-Institute "Wingate". Tel Aviv University campus, Israel. 
-- 🎨 I’m Graduated from art and 🎹 musical school.
-- 🧪 I’m Gradueted from the chemical-mechanical technical college.
+- 🔬 Graduate of Sport-Institute "Wingate". Tel Aviv University campus, Israel.
+- 🔬 B.S. Degree. Organics Chemistry Institute. Ukraine.
+- 🎨 I’m Graduated from art and 🎹 musical school. Ukraine.
 
 
 <!---
