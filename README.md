@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on create some interesting web project.
 - 👀 I’m interested in more expirience in programming, design and Web Development.
 - ABOUT ME:
-- 🏋️‍♂️ Sportsman, coach, ex-champion in weightlifting and bodybuilding. 
+- 🏋️‍♂️ Sportsman, coach, weightlifting and bodybuilding champion. 
 - CONTACT:
 - 📫 How to reach me: maximnord@gmail.com
 - Education:
