@@ -3,14 +3,14 @@
 - 👀 I’m very interested in more expirience and updating of knowlege in programming and design.
 - 💙 My area of interests is: design and Web Development on JavaScript, PHP and their frameworks like React and Laravel.
   
-- ABOUT ME:
+- ## ABOUT ME:
 - 🏋️‍♂️ Sportsman, coach, weightlifting and bodybuilding champion.
 
 - CONTACT:
 - 📫 How to reach me: maximnord@gmail.com
 - 📃 Presonal Site: https://maxsoskind.com
   
-- Education:
+- ## Education:
 - 💻 Graduated from Softwear Development College – "HackerU college". Tel Aviv, Israel
 - 🔬 Graduate of Sport-Institute "Wingate". Tel Aviv University Campus, Israel.
 - 🔬 B.S. Degree. Organics Chemistry Institute. Ukraine.
