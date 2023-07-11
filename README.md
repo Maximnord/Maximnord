@@ -8,7 +8,7 @@
 
 - CONTACT:
 - 📫 How to reach me: maximnord@gmail.com
-- Presonal Site: https://maxsoskind.com
+- 📃 Presonal Site: https://maxsoskind.com
   
 - Education:
 - 💻 Graduated from Softwear Development College – "HackerU college". Tel Aviv, Israel
