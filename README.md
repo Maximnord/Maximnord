@@ -1,14 +1,18 @@
-- 👋 Hi, I’m @Maximnord, Full Stack Developer. 
-- 🌱 I’m currently learning PHP, JavaScript, Node.js, React. SQL, MongoDB.
-- 💞️ I’m looking to collaborate on create some interesting web project.
-- 👀 I’m interested in more expirience in programming, design and Web Development.
+- 👋 Hi, I’m Max Soskind, Full Stack Developer. 
+- 💞️ I would like to collaborate on create some interesting web project.
+- 👀 I’m very interested in more expirience and updating of knowlege in programming and design.
+- 💙 My area of interests is: design and Web Development on JavaScript, PHP and their frameworks like React and Laravel.
+  
 - ABOUT ME:
-- 🏋️‍♂️ Sportsman, coach, weightlifting and bodybuilding champion. 
+- 🏋️‍♂️ Sportsman, coach, weightlifting and bodybuilding champion.
+
 - CONTACT:
 - 📫 How to reach me: maximnord@gmail.com
+- Presonal Site: https://maxsoskind.com
+  
 - Education:
-- 💻 Graduated from Computer Development College – "HackerU college". Tel Aviv, Israel
-- 🔬 Graduate of Sport-Institute "Wingate". Tel Aviv University campus, Israel.
+- 💻 Graduated from Softwear Development College – "HackerU college". Tel Aviv, Israel
+- 🔬 Graduate of Sport-Institute "Wingate". Tel Aviv University Campus, Israel.
 - 🔬 B.S. Degree. Organics Chemistry Institute. Ukraine.
 - 🎨 I’m Graduated from art and 🎹 musical school. Ukraine.
 
