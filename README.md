@@ -7,7 +7,7 @@
 - 🏋️‍♂️ Sportsman, coach, weightlifting and bodybuilding champion.
 
 ## CONTACT:
-- 📫 How to reach me: maximnord@gmail.com
+- 📫 My personal email: maximnord@gmail.com
 - 📃 Presonal Site: https://maxsoskind.com
   
 - ## Education:
