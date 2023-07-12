@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Max Soskind, Full Stack Developer. 
+## 👋 Hi, I’m Max Soskind, Full Stack Developer. 
 - 💞️ I would like to participate in some interesting web project.
 - 👀 I’m interested in more expirience and updating of knowlege in programming and design.
 - 💙 My area of interests is: design and Web Development on JavaScript, PHP and their frameworks like React and Laravel.
