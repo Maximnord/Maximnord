@@ -14,7 +14,7 @@
 - 💻 Graduated from Softwear Development College – "HackerU college". Tel Aviv, Israel
 - 🔬 Graduate of Sport-Institute "Wingate". Tel Aviv University Campus, Israel.
 - 🔬 B.S. Degree. Organics Chemistry Institute. Ukraine.
-- 🎨 I’m Graduated from art and 🎹 musical school. Ukraine.
+- 🎨 Graduated from art and 🎹 musical school. Ukraine.
 
 
 <!---
