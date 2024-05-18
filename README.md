@@ -4,7 +4,7 @@
 - 💙 My area of interests is: design and Web Development on JavaScript, PHP and their frameworks like React and Laravel.
   
 - ## ABOUT ME:
-- 🏋️‍♂️ Sportsman, coach, weightlifting and bodybuilding champion.
+- Fullstack Wed Developer, 🏋️‍♂️ Sportsman.
 
 ## CONTACT:
 - 📫 My personal email: maximnord@gmail.com
